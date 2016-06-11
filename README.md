@@ -11,17 +11,28 @@
  
 ## modulator: income
 income group was divided 3 groups based on distribution
+
 group 1: 0 ~ 640
+
 group 2: 640 ~ 7634
+
 group 3: > 7634
 
+
 count      171.000000
+
 mean      7006.359798
+
 std      10264.774835
+
 min        103.775857
+
 25%        639.452655
+
 50%       2231.993335
+
 75%       7633.390394
+
 max      52301.587179
 
 
